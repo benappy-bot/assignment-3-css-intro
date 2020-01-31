@@ -9,7 +9,6 @@ body {
     background: #2F5365; /* dark green gray */
     color: #000; /* may be #000 or #fff */
     font-family: 'Verdana', 'Arial', sans-serif; /* keep */
-
 }
 
 header {
@@ -31,18 +30,15 @@ aside {
     color: #000;
 }
 
-
 footer {
     color: #fff;
     background: #383E3E;
     color: #fff;
-
 }
 
 figure {
     background: #234548;
     color: #fff;
-
 }
 
 a:link {
