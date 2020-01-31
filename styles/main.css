@@ -49,11 +49,11 @@ a:visited {
   color: #FDFF8A;
 }
 
-a:focus {
+a:hover {
   color: #E7D5D5;
 }
 
-a:hover {
+a:focus {
   color: #E7D5D5;
 }
 
