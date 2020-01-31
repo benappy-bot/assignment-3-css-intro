@@ -9,6 +9,12 @@ body {
     background: #2F5365; /* dark green gray */
     color: #000; /* may be #000 or #fff */
     font-family: 'Verdana', 'Arial', sans-serif; /* keep */
+
+}
+
+header {
+    color: #fff;
+    background: #383E3E; /* dark gray */
 }
 
 article {
@@ -20,16 +26,9 @@ article {
     background: #CAE0E3; /* light gray */
 }
 
-header {
-    color: #fff;
-    background: #383E3E; /* dark gray */
-
-}
-
 aside {
     background: #A1B3B5;
     color: #000;
-
 }
 
 
