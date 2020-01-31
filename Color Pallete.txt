@@ -1,0 +1,13 @@
+Color Scheme:
+
+#2F5365 dark green gray - body
+#CAE0E3 Light Grayish - article
+#464E4E Dark gray - header and footer
+#234548 Greenish Gray - figure
+
+Pseudo Class
+link: #C3DADA
+visited: #FDFF8A
+focus: #E7D5D5
+hover: #E7D5D5
+active: ##C1DCDC
